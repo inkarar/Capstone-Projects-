@@ -1,3 +1,3 @@
-# Capstone-Projects
+# ML-Projects
 
-All of my Capstone projects can be found in here 
+Compilation of ML projects 
